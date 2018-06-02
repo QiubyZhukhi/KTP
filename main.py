@@ -3,7 +3,7 @@
 #qpy:console
 
 print ("""
-Basic for Modul Androidhelper py2.7 Func 
+Basic for Modul Sl4a Python 3 Func 
 phoneDialNumber
 Coded: QiubyZhukhi
 """)
